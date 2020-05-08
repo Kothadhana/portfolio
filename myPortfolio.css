@@ -1,0 +1,50 @@
+
+.container-fluid{
+  text-align: center;
+  padding-top: 0;
+  z-index: -1;
+}
+section{
+  padding: 30px;
+}
+nav{
+  background-color: black;
+}
+.navbar{
+  width: 100%;
+  padding-top: 0;
+}
+div{
+  text-align: center;
+  padding: 30px;
+}
+.navbar-toggler{
+  padding-right: 20px;;
+}
+.worksmade{
+  padding: 30px;
+}
+li{
+  padding: 20px;
+  padding-right: 10px;
+}
+.navbar{
+  color: black;
+}
+.whole{
+  font-family: 'Lemonada', cursive;
+  font-size: 20px;
+}
+p{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.heading{
+  width: 85%;
+}
+.contact a{
+  padding: 20px;
+}
+li{
+  list-style-type: disc ;
+}
